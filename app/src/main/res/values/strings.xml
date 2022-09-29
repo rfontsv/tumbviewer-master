@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Tumbviewer</string>
+    <string name="search_hint">Input blog name</string>
+    <string name="no_video">No video</string>
+    <string name="no_data">No data</string>
+    <string name="load_finish">The end</string>
+    <string name="load_failed">Loading failed</string>
+    <string name="load_failure_des">%1$d \n %2$s</string>
+    <string name="blog_follow">Follow</string>
+    <string name="blog_unfollow">Unfollow</string>
+
+    <string name="login_success">Login success</string>
+    <string name="copy_to_clipboard">Have copied to clipboard</string>
+
+    <string name="page_main">main</string>
+    <string name="page_video">video</string>
+    <string name="page_photo">photo</string>
+    <string name="page_search">search</string>
+    <string name="page_user">my</string>
+    <string name="page_user_account">Account</string>
+    <string name="page_user_blog">Blog</string>
+    <string name="page_user_like">Likes</string>
+    <string name="page_user_following">Following</string>
+    <string name="page_user_setting">Settings</string>
+
+    <string name="source_title">source：%1$s</string>
+    <string name="note_count_description">%1$d notes / duration %2$s</string>
+    <string name="note_count">%1$d notes</string>
+    <string name="update_des">%1$s updated</string>
+
+    <string name="video_play">Play</string>
+    <string name="video_view_image">View image</string>
+    <string name="video_download">Download</string>
+    <string name="video_copy_url">Copy link</string>
+    <string name="video_exist">Video exists</string>
+    <string name="video_play_error">Cannot play this video</string>
+
+    <string name="pic_save">Save</string>
+    <string name="pic_cancel">Cancel</string>
+    <string name="pic_title">Save this photo?</string>
+    <string name="pic_not_found">Photo not found</string>
+    <string name="pic_saved">Saved</string>
+    <string name="pic_saved_failure">Save Error</string>
+    <string name="pic_save_all">Save all</string>
+
+    <string name="settings_limit_info">Request limit per-day：%1$d \nRequest remaining per-day：%2$d \nRequest day-reset left：%3$s \nRequest limit per-hour：%4$d \nRequest remaining per-hour：%5$d \nRequest hour-reset left：%6$s</string>
+    <string name="settings_delete_account">Delete account %1$s ?</string>
+    <string name="settings_clear_cache">Clear cache</string>
+    <string name="settings_clear">Clear</string>
+    <string name="settings_clear_ok">Cleared</string>
+    <string name="settings_register">Register your tumblr app</string>
+    <string name="settings_advance">Advanced</string>
+    <string name="settings_option">Option</string>
+    <string name="settings_option_simple_title">Simple mode</string>
+    <string name="settings_option_simple_des">Show less details in post view</string>
+    <string name="settings_tumblr_apps">Your tumblr apps</string>
+    <string name="settings_tumblr_limit">Request statistics</string>
+    <string name="settings_accounts_header">Accounts</string>
+    <string name="settings_accounts_title">Account %1$d</string>
+    <string name="settings_accounts_add">Add account</string>
+    <string name="settings_accounts_switch">Switch to account \"%1$s\" ?</string>
+    <string name="settings_switch">switch</string>
+
+    <string name="register_tumblr_app">Add tumblr app</string>
+    <string name="register_key_hint">Api key</string>
+    <string name="register_secret_hint">Api secret</string>
+    <string name="register_continue_copy">Continue copy</string>
+
+    <string name="reblog_post">POST</string>
+    <string name="reblog_failure">Something wrong, please retry!</string>
+    <string name="reblog_success">Have posted!</string>
+    <string name="reblog_comment_hint">Write something, if you like</string>
+
+    <string name="delete_positive">Delete</string>
+    <string name="delete_title">Delete this post?</string>
+
+    <string name="search_reference_suggestion">Reference blog</string>
+
+    <string name="download_toolbar_title">Download</string>
+    <string name="download_video_title">Video</string>
+    <string name="download_photo_title">Photo</string>
+    <string name="download_video_delete_title">Delete selected videos?</string>
+    <string name="download_photo_delete_title">Delete selected photos?</string>
+    <string name="download_delete_title">Delete ?</string>
+    <string name="download_start">Start download</string>
+    <string name="download_complete">Download done</string>
+    <string name="download_display_current">Only current account</string>
+    <string name="download_select_all">Select all</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="post_filter">Filter</string>
+    <array name="post_filter_type">
+        <item>Video and photo</item>
+        <item>Only Video</item>
+        <item>Only Photo</item>
+    </array>
+    <string name="likes_title">%1$s \'s likes</string>
+    <string name="downloading">Downloading</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="tags_search">tags search</string>
+</resources>

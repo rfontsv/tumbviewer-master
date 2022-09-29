@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Tumbviewer</string>
+    <string name="search_hint">输入博客名</string>
+    <string name="no_video">无视频</string>
+    <string name="no_data">无数据</string>
+    <string name="load_failed">加载失败</string>
+    <string name="blog_follow">关注</string>
+    <string name="blog_unfollow">取消关注</string>
+    <string name="load_failure_des">%1$d \n %2$s</string>
+
+    <string name="page_main">主页</string>
+    <string name="page_video">视频</string>
+    <string name="page_photo">图片</string>
+    <string name="page_search">搜索</string>
+    <string name="page_user">我的</string>
+    <string name="page_user_account">账户</string>
+    <string name="page_user_blog">博客</string>
+    <string name="page_user_like">喜欢</string>
+    <string name="page_user_following">关注</string>
+    <string name="page_user_setting">设置</string>
+
+    <string name="source_title">来源：%1$s</string>
+    <string name="note_count_description">%1$d 条热度 / 时长 %2$s</string>
+    <string name="note_count">%1$d 条热度</string>
+    <string name="update_des">%1$s 更新</string>
+
+    <string name="video_play">播放</string>
+    <string name="video_view_image">查看缩略图</string>
+    <string name="video_download">下载</string>
+    <string name="video_copy_url">复制链接</string>
+    <string name="video_exist">视频已存在</string>
+
+    <string name="pic_save">保存</string>
+    <string name="pic_cancel">取消</string>
+    <string name="pic_title">保存该图片?</string>
+    <string name="pic_not_found">图片不存在</string>
+    <string name="pic_saved">已保存</string>
+    <string name="pic_saved_failure">保存出错</string>
+    <string name="pic_save_all">保存全部</string>
+
+    <string name="settings_limit_info">每天限制请求数：%1$d \n每天剩余请求数：%2$d \n每天重置剩余时间：%3$s \n每小时限制请求数：%4$d \n每小时剩余请求数：%5$d \n每小时重置剩余时间：%6$s </string>
+    <string name="settings_delete_account">删除账户 %1$s ?</string>
+    <string name="settings_clear_cache">清空缓存</string>
+    <string name="settings_clear">清空</string>
+    <string name="settings_clear_ok">已清空缓存</string>
+    <string name="settings_register">注册你的Tumblr应用</string>
+    <string name="settings_advance">高级</string>
+    <string name="settings_tumblr_apps">你的tumblr apps</string>
+    <string name="settings_tumblr_limit">请求统计</string>
+    <string name="settings_accounts_header">账户</string>
+    <string name="settings_accounts_title">账户 %1$d</string>
+    <string name="settings_accounts_add">添加账户</string>
+    <string name="settings_accounts_switch">切换到账户 \"%1$s\" ?</string>
+    <string name="settings_switch">切换</string>
+
+    <string name="register_tumblr_app">添加tumblr app</string>
+    <string name="register_key_hint">api key</string>
+    <string name="register_secret_hint">api secret</string>
+    <string name="register_continue_copy">继续复制</string>
+
+    <string name="reblog_failure">出错了，请重试！</string>
+    <string name="reblog_success">已转发</string>
+    <string name="reblog_comment_hint">愿意的话，可以添加你的内容。</string>
+    <string name="reblog_post">发布</string>
+    <string name="delete_positive">删除</string>
+    <string name="delete_title">删除这条博客？</string>
+    <string name="search_reference_suggestion">相关博客</string>
+    <string name="settings_option">选项</string>
+    <string name="settings_option_simple_des">在列表视图中显示更少信息</string>
+    <string name="settings_option_simple_title">精简模式</string>
+    <string name="load_finish">结束</string>
+
+    <string name="download_toolbar_title">下载</string>
+    <string name="download_video_title">视频</string>
+    <string name="download_photo_title">图片</string>
+    <string name="download_photo_delete_title">删除所选图片？</string>
+    <string name="download_video_delete_title">删除所选视频？</string>
+    <string name="download_delete_title">删除？</string>
+    <string name="download_start">开始下载</string>
+    <string name="download_display_current">仅当前账户</string>
+    <string name="video_play_error">无法播放该视频</string>
+    <string name="login_success">登录成功</string>
+    <string name="copy_to_clipboard">已复制到粘贴板</string>
+    <string name="download_select_all">选择全部</string>
+    <string name="download_complete">下载完成</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="post_filter">过滤</string>
+    <array name="post_filter_type">
+        <item>视频与图片</item>
+        <item>仅视频</item>
+        <item>仅图片</item>
+    </array>
+    <string name="likes_title">%1$s 的喜欢</string>
+    <string name="downloading">下载中</string>
+    <string name="downloaded">已下载</string>
+    <string name="tags_search">tags search</string>
+</resources>
